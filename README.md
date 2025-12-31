@@ -1,0 +1,1 @@
+This is a simple JAVA project for the SWE395 class of NEU University, which is submitted by Arda KAZANCI 20241833 , Deniz KÖMEÇOĞLU 20230717 , Bilgesu ERMAN 20220934 , Elif YAYAN 20220901 , Erna CAF 20230154.
